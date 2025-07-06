@@ -1,0 +1,167 @@
+AI-Based Doctor & Virtual Hospital System
+Automated Exam Center Without Human Invigilators
+Crime Prediction and Emergency Alert System
+Cybercrime & Data Leak Protection Shield
+Real-Time Hacker Confusion & Intrusion Prevention App
+Secure Data Deployment with Server Obfuscation
+AI Army Support & War Assistant System
+Logistics & Smart Supply Chain System
+Legal Court Simulation (AI Judge + Lawyer)
+AI Trading Bot
+Decentralized Court & E-Judgement Framework
+AI Health Monitor for Wearables Integration
+Blockchain-based Prescription System
+Rural Telemedicine with Offline AI Support
+Patient History Timeline with EMR Simulation
+Virtual Nurse for Elderly Care & Daily Reminders
+Mental Health AI Therapist & Mood Tracker
+Emergency First Aid Voice & Visual Bot
+Health Report Analyzer with OCR & Decision Maker
+Multi-language Medical Bot with Voice Interaction
+Blood Bank & Organ Donor Matchmaking App
+Remote Surgery Guide AI Assistant
+E-Pharmacy Integration with Prescription Engine
+AI-Based Resume Review & Improvement Tool
+Smart Interview Coach with Voice Feedback
+Remote Proctoring AI System with Cheating Detection
+Smart Waste Management & Bin Tracking App
+Smart Village Watchman App (No Human Guard)
+Auto Student Report Card & Performance Predictor
+Smart School Attendance & Class Participation Tracker
+Auto MCQ Solver Using Chrome Extension + AI
+AI Teaching Assistant for Schools & Colleges
+Fraud Detection Bot for eCommerce & Marketplaces
+Deepfake Detector for Social Media
+Face Analysis Personality Predictor App
+Smart Transportation Ticketing & Group Travel App
+AI Fitness Coach with Real-Time Posture Correction
+AI-Powered Court Lawyer for Legal Advice
+Secure Chat App with IP Masking & No Trace
+AI-Generated Legal Documents & Auto Filing
+Food Nutrition AI Detector (Image to Calorie)
+AI Home Guard – Motion + Voice Intrusion Alert
+Spiritual & Temple Booking with Personal Priest Bot
+Bus & Train Live Location & NFC Ticketing System
+Real Estate AI Value Predictor & Legal Validator
+AI Super App for Recharge, Bill, Food, Travel etc.
+Multi-Account Bank Aggregator with Budget AI
+Career Recommendation System for Rural Students
+Fraud Insurance Claim Verifier Bot
+Offline Voice Command Control for Devices
+Online Exam Paper Generator & Auto Answer Checker
+AI Emergency Criminal Catcher Surveillance System
+File Encryptor & Decoder App with Dynamic Keying
+Digital Ward App for City Corporations (Issues Tracker)
+IoT-Connected Smart Medicine Dispenser
+AI Voting System with Facial Authentication
+Data Engineer Portfolio Builder + Auto Dashboard
+DevOps Engineer Simulator Platform
+Educational Bot for Visually Impaired Students
+Speech to SQL Database Query App
+Hospital Queue & Token AI Optimizer
+AI-Generated Question Bank System (All Subjects)
+Automatic Water Flow Controller using AI for Crops
+Legal Support System for Farmers' Rights & Issues
+Stock Market News to Summary App (Hindi + Telugu)
+Wildlife Protection AI Trap & Alert App
+Child Safety Tracker with AI Alerts
+Blockchain-Backed Vaccine Supply Chain Tracker
+Expense Splitter with Emotional Analysis for Groups
+NGO Donation Optimizer (Transparency + Matching)
+AI-Based Anti-Ragging Campus Safety App
+Smart Traffic Fine Prediction & Prevention App
+AI Career Tracker Based on Daily Learning Logs
+Smart College Automation (Fees, Timetable, Marks)
+Real-Time Local Government Service Feedback App
+EduTrainer AI Agent – AI tutor for students: doubt clearing, tracking, mock interviews.
+AI MCQ Auto-Solver Bot – Chrome extension using OCR and GPT/Gemini to solve MCQs.
+AI Answer Sheet Evaluator – Evaluates written answers using NLP and AI.
+Virtual Brain System – AI memory/productivity assistant that learns user habits.
+AI Virtual Company Simulation – Simulates company departments using LLMs.
+AI Cancer Health Agent – Detects cancer from symptoms using ML/data analysis.
+Smart Exam Proctoring – Detects cheating through webcam and audio.
+AI Content Generator for Courses – Auto-creates videos, PDFs, quizzes using AI.
+AI Interview Q&A Generator – Generates interview questions and STAR responses.
+Crowd Emotion Detector – Uses computer vision to analyze audience emotions.
+Zet Pay Super App – Unified app for UPI, travel, movies, food, and more.
+Recharge & Bill Payments System – Real API integration for recharge/bills.
+Movie Ticket Booking System – Seat booking with blockchain-based verification.
+Temple Darshan Booking App – Books puja slots, donations, and streams events.
+Food Delivery System – Zomato-style platform with order tracking/suggestions.
+Smart Resume Generator – AI-assisted resume PDF generator.
+Internship Finder AI Tool – AI matches students with internships, generates cover letters.
+CCTV Attendance System – Face recognition-based attendance.
+CI/CD for AI Apps – Build, test, deploy pipelines for AI projects.
+Dockerized LLM Deployment – Self-hosted containerized LLM infrastructure.
+IaC Project with Terraform – AWS infrastructure deployment via Terraform.
+Secret Manager System – Secures API keys/secrets.
+Monitoring & Alert System – Tracks errors and performance in real-time.
+Student Grade Prediction – Predicts academic performance using data.
+Twitter Sentiment Analyzer – Real-time hashtag sentiment analysis.
+ETL Pipeline with Airflow – Data pipelines using Airflow and Spark.
+Fraud Detection Model – AI-based financial fraud detection.
+Blackhole + Rankhole Attack Simulation – Simulates and defends WSN attacks.
+AI-Powered IDS/IPS – ML-based intrusion detection/prevention system.
+Blockchain File Sharing – File encryption and tracking using blockchain.
+Gesture-Based Driving Game – Game control using hand gestures and computer vision.
+Auto-Portfolio Generator – Creates GitHub portfolio and resumes automatically.
+One-Click Deploy Tool – Full app deployment in one command.
+Own LLM Project Generator – Generates code and docs from prompts with self-hosted LLMs.
+ZetBolt (Vercel+LLM) – Prompt-to-app builder with CI/CD and docs.
+Anti-Corruption Gov System – Government work tracker on blockchain.
+Faculty Dashboard System – Monitors teacher performance and feedback.
+Smart Food Maker AI – Suggests recipes from voice input, ingredients, and calories.
+Recharge & Bill Payments
+Food Ordering & Delivery
+Movie Ticket Booking
+Travel Bookings
+Temple Booking
+Grocery Delivery
+Cab & Bike Rides
+Wallet/UPI Integration
+Location-Based Offers
+Blockchain Transaction History
+MCQ Auto Answer Bot
+Voice Learning Mode
+Resume Evaluator
+Document Summarizer
+PDF Chatbot
+AI Face Attendance
+Voice Agent with Emotions
+Image Caption Generator
+AI Customer Chatbot
+Finance Assistant
+MVK Company Website
+LMS Platform
+Real-Time Chat App
+E-Commerce Platform
+Markdown Blog System
+Portfolio Website
+Super App Landing Page
+Task Board
+Weather App
+Hotel Booking
+CI/CD Pipeline
+Kubernetes Deployment
+Log Monitoring (ELK)
+Cloud Cost Estimator
+Auto DB Backup
+Serverless Microservices
+API Gateway + Rate Limit
+Database Version Control
+SaaS Billing & Tracker
+Status Page
+Black Hole Attack Simulation
+WSN Secure Algorithm
+Blockchain Voting System
+Finance Tracker (SQL)
+Bus/Train Tracker
+Dynamic Travel Pricing
+Group Recharge Split
+AI Health Alert System
+Web3 Complaint Portal
+Virtual Brain AI
+Invigilo AI
+MVK Suraksha Grid
+AI Crime Brain
+MVK Trading Bot 

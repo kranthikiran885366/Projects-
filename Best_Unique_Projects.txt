@@ -1,0 +1,28 @@
+Best & Unique Projects
+=====================
+
+AI-Based Anti-Ragging Campus Safety App
+Blockchain-Backed Vaccine Supply Chain Tracker
+AI Career Tracker Based on Daily Learning Logs
+Legal Court Simulation (AI Judge + Lawyer)
+Rural Telemedicine with Offline AI Support
+Wildlife Protection AI Trap & Alert App
+Expense Splitter with Emotional Analysis for Groups
+Virtual Nurse for Elderly Care & Daily Reminders
+Spiritual & Temple Booking with Personal Priest Bot
+Real-Time Local Government Service Feedback App
+AI Emergency Criminal Catcher Surveillance System
+Blockchain Voting System
+AI Home Guard – Motion + Voice Intrusion Alert
+AI-Powered Court Lawyer for Legal Advice
+AI Fitness Coach with Real-Time Posture Correction
+AI Super App for Recharge, Bill, Food, Travel etc.
+DevOps Engineer Simulator Platform
+AI Content Generator for Courses – Auto-creates videos, PDFs, quizzes using AI
+AI Virtual Company Simulation – Simulates company departments using LLMs
+Blackhole + Rankhole Attack Simulation – Simulates and defends WSN attacks
+Gesture-Based Driving Game – Game control using hand gestures and computer vision
+Own LLM Project Generator – Generates code and docs from prompts with self-hosted LLMs
+ZetBolt (Vercel+LLM) – Prompt-to-app builder with CI/CD and docs
+Anti-Corruption Gov System – Government work tracker on blockchain
+Smart Food Maker AI – Suggests recipes from voice input, ingredients, and calories 

@@ -1,0 +1,57 @@
+Complete List of Projects by Mallela Kranthi Kiran
+
+### AI and Education Tools
+
+1. EduTrainer AI Agent – AI tutor for students: doubt clearing, tracking, mock interviews.
+2. AI MCQ Auto-Solver Bot – Chrome extension using OCR and GPT/Gemini to solve MCQs.
+3. AI Answer Sheet Evaluator – Evaluates written answers using NLP and AI.
+4. Virtual Brain System – AI memory/productivity assistant that learns user habits.
+5. AI Virtual Company Simulation – Simulates company departments using LLMs.
+6. AI Cancer Health Agent – Detects cancer from symptoms using ML/data analysis.
+7. Smart Exam Proctoring – Detects cheating through webcam and audio.
+8. AI Content Generator for Courses – Auto-creates videos, PDFs, quizzes using AI.
+9. AI Interview Q&A Generator – Generates interview questions and STAR responses.
+10. Crowd Emotion Detector – Uses computer vision to analyze audience emotions.
+
+### Web and Mobile Apps
+
+11. Zet Pay Super App – Unified app for UPI, travel, movies, food, and more.
+12. Recharge & Bill Payments System – Real API integration for recharge/bills.
+13. Movie Ticket Booking System – Seat booking with blockchain-based verification.
+14. Temple Darshan Booking App – Books puja slots, donations, and streams events.
+15. Food Delivery System – Zomato-style platform with order tracking/suggestions.
+
+### Productivity & Career Tools
+
+16. Smart Resume Generator – AI-assisted resume PDF generator.
+17. Internship Finder AI Tool – AI matches students with internships, generates cover letters.
+18. CCTV Attendance System – Face recognition-based attendance.
+19. CI/CD for AI Apps – Build, test, deploy pipelines for AI projects.
+20. Dockerized LLM Deployment – Self-hosted containerized LLM infrastructure.
+
+### DevOps and Infrastructure
+
+21. IaC Project with Terraform – AWS infrastructure deployment via Terraform.
+22. Secret Manager System – Secures API keys/secrets.
+23. Monitoring & Alert System – Tracks errors and performance in real-time.
+
+### Data Science & AI Models
+
+24. Student Grade Prediction – Predicts academic performance using data.
+25. Twitter Sentiment Analyzer – Real-time hashtag sentiment analysis.
+26. ETL Pipeline with Airflow – Data pipelines using Airflow and Spark.
+27. Fraud Detection Model – AI-based financial fraud detection.
+28. Blackhole + Rankhole Attack Simulation – Simulates and defends WSN attacks.
+29. AI-Powered IDS/IPS – ML-based intrusion detection/prevention system.
+30. Blockchain File Sharing – File encryption and tracking using blockchain.
+
+### Miscellaneous / Advanced Tools
+
+31. Gesture-Based Driving Game – Game control using hand gestures and computer vision.
+32. Auto-Portfolio Generator – Creates GitHub portfolio and resumes automatically.
+33. One-Click Deploy Tool – Full app deployment in one command.
+34. Own LLM Project Generator – Generates code and docs from prompts with self-hosted LLMs.
+35. ZetBolt (Vercel+LLM) – Prompt-to-app builder with CI/CD and docs.
+36. Anti-Corruption Gov System – Government work tracker on blockchain.
+37. Faculty Dashboard System – Monitors teacher performance and feedback.
+38. Smart Food Maker AI – Suggests recipes from voice input, ingredients, and calories. 

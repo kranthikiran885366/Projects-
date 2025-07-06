@@ -1,0 +1,167 @@
+AI-Based Doctor & Virtual Hospital System - MedAI Hospital
+Automated Exam Center Without Human Invigilators - ExamBot Proctor
+Crime Prediction and Emergency Alert System - SafeCity AI
+Cybercrime & Data Leak Protection Shield - CyberGuardX
+Real-Time Hacker Confusion & Intrusion Prevention App - HackMaze
+Secure Data Deployment with Server Obfuscation - DataCloak
+AI Army Support & War Assistant System - BattleBrain
+Logistics & Smart Supply Chain System - LogiGenius
+Legal Court Simulation (AI Judge + Lawyer) - CourtSimulate
+AI Trading Bot - TradeGenie
+Decentralized Court & E-Judgement Framework - JustiChain
+AI Health Monitor for Wearables Integration - HealthSync AI
+Blockchain-based Prescription System - RxChain
+Rural Telemedicine with Offline AI Support - VillageCare AI
+Patient History Timeline with EMR Simulation - MedTimeline
+Virtual Nurse for Elderly Care & Daily Reminders - CareNurse AI
+Mental Health AI Therapist & Mood Tracker - MindMender
+Emergency First Aid Voice & Visual Bot - AidBot
+Health Report Analyzer with OCR & Decision Maker - ReportWise
+Multi-language Medical Bot with Voice Interaction - PolyMedBot
+Blood Bank & Organ Donor Matchmaking App - LifeLinker
+Remote Surgery Guide AI Assistant - SurgiGuide
+E-Pharmacy Integration with Prescription Engine - PharmaConnect
+AI-Based Resume Review & Improvement Tool - ResumeAI
+Smart Interview Coach with Voice Feedback - InterviewMentor
+Remote Proctoring AI System with Cheating Detection - ProctorVision
+Smart Waste Management & Bin Tracking App - CleanCity Tracker
+Smart Village Watchman App (No Human Guard) - eWatchman
+Auto Student Report Card & Performance Predictor - GradePredictor
+Smart School Attendance & Class Participation Tracker - AttendSmart
+Auto MCQ Solver Using Chrome Extension + AI - QuizCrack
+AI Teaching Assistant for Schools & Colleges - TeachMate AI
+Fraud Detection Bot for eCommerce & Marketplaces - FraudShield
+Deepfake Detector for Social Media - DeepTruth
+Face Analysis Personality Predictor App - FacePersona
+Smart Transportation Ticketing & Group Travel App - TravelEase
+AI Fitness Coach with Real-Time Posture Correction - FitAI Coach
+AI-Powered Court Lawyer for Legal Advice - LawBot Pro
+Secure Chat App with IP Masking & No Trace - GhostChat
+AI-Generated Legal Documents & Auto Filing - DocuGenie
+Food Nutrition AI Detector (Image to Calorie) - NutriScan
+AI Home Guard – Motion + Voice Intrusion Alert - HomeSentinel
+Spiritual & Temple Booking with Personal Priest Bot - TempleConnect
+Bus & Train Live Location & NFC Ticketing System - TransitLive
+Real Estate AI Value Predictor & Legal Validator - PropAI
+AI Super App for Recharge, Bill, Food, Travel etc. - SuperZet
+Multi-Account Bank Aggregator with Budget AI - BankFusion
+Career Recommendation System for Rural Students - CareerPath AI
+Fraud Insurance Claim Verifier Bot - ClaimGuard
+Offline Voice Command Control for Devices - VoicePilot
+Online Exam Paper Generator & Auto Answer Checker - ExamGen
+AI Emergency Criminal Catcher Surveillance System - CrimeCatcher AI
+File Encryptor & Decoder App with Dynamic Keying - FileLockX
+Digital Ward App for City Corporations (Issues Tracker) - CityWard
+IoT-Connected Smart Medicine Dispenser - MediDispenser
+AI Voting System with Facial Authentication - VoteFace
+Data Engineer Portfolio Builder + Auto Dashboard - DataPort
+DevOps Engineer Simulator Platform - DevSim
+Educational Bot for Visually Impaired Students - EduSight
+Speech to SQL Database Query App - Speak2SQL
+Hospital Queue & Token AI Optimizer - QueueMaster
+AI-Generated Question Bank System (All Subjects) - QuestGen
+Automatic Water Flow Controller using AI for Crops - AquaAI
+Legal Support System for Farmers' Rights & Issues - AgriLaw
+Stock Market News to Summary App (Hindi + Telugu) - StockSummarizer
+Wildlife Protection AI Trap & Alert App - WildGuard
+Child Safety Tracker with AI Alerts - SafeChild
+Blockchain-Backed Vaccine Supply Chain Tracker - VaxChain
+Expense Splitter with Emotional Analysis for Groups - SplitSense
+NGO Donation Optimizer (Transparency + Matching) - DonorMatch
+AI-Based Anti-Ragging Campus Safety App - SafeCampus AI
+Smart Traffic Fine Prediction & Prevention App - FinePredict
+AI Career Tracker Based on Daily Learning Logs - CareerLog AI
+Smart College Automation (Fees, Timetable, Marks) - CollegeFlow
+Real-Time Local Government Service Feedback App - CivicPulse
+EduTrainer AI Agent – AI tutor for students: doubt clearing, tracking, mock interviews. - EduTrainer
+AI MCQ Auto-Solver Bot – Chrome extension using OCR and GPT/Gemini to solve MCQs. - MCQGenie
+AI Answer Sheet Evaluator – Evaluates written answers using NLP and AI. - AnswerEval
+Virtual Brain System – AI memory/productivity assistant that learns user habits. - BrainBox
+AI Virtual Company Simulation – Simulates company departments using LLMs. - CompanySim
+AI Cancer Health Agent – Detects cancer from symptoms using ML/data analysis. - OncoAI
+Smart Exam Proctoring – Detects cheating through webcam and audio. - ExamGuard
+AI Content Generator for Courses – Auto-creates videos, PDFs, quizzes using AI. - CourseGen
+AI Interview Q&A Generator – Generates interview questions and STAR responses. - QnAForge
+Crowd Emotion Detector – Uses computer vision to analyze audience emotions. - CrowdSense
+Zet Pay Super App – Unified app for UPI, travel, movies, food, and more. - ZetPay
+Recharge & Bill Payments System – Real API integration for recharge/bills. - BillEase
+Movie Ticket Booking System – Seat booking with blockchain-based verification. - MovieChain
+Temple Darshan Booking App – Books puja slots, donations, and streams events. - DarshanNow
+Food Delivery System – Zomato-style platform with order tracking/suggestions. - FoodFleet
+Smart Resume Generator – AI-assisted resume PDF generator. - ResumeCraft
+Internship Finder AI Tool – AI matches students with internships, generates cover letters. - InternMatch
+CCTV Attendance System – Face recognition-based attendance. - AttendAI
+CI/CD for AI Apps – Build, test, deploy pipelines for AI projects. - AICD
+Dockerized LLM Deployment – Self-hosted containerized LLM infrastructure. - LLMBox
+IaC Project with Terraform – AWS infrastructure deployment via Terraform. - TerraDeploy
+Secret Manager System – Secures API keys/secrets. - SecretSafe
+Monitoring & Alert System – Tracks errors and performance in real-time. - Alertify
+Student Grade Prediction – Predicts academic performance using data. - GradeAI
+Twitter Sentiment Analyzer – Real-time hashtag sentiment analysis. - TweetMood
+ETL Pipeline with Airflow – Data pipelines using Airflow and Spark. - AirPipe
+Fraud Detection Model – AI-based financial fraud detection. - FraudDetect
+Blackhole + Rankhole Attack Simulation – Simulates and defends WSN attacks. - NetSimGuard
+AI-Powered IDS/IPS – ML-based intrusion detection/prevention system. - IntrudeAI
+Blockchain File Sharing – File encryption and tracking using blockchain. - BlockShare
+Gesture-Based Driving Game – Game control using hand gestures and computer vision. - DriveGest
+Auto-Portfolio Generator – Creates GitHub portfolio and resumes automatically. - PortGen
+One-Click Deploy Tool – Full app deployment in one command. - DeployNow
+Own LLM Project Generator – Generates code and docs from prompts with self-hosted LLMs. - LLMForge
+ZetBolt (Vercel+LLM) – Prompt-to-app builder with CI/CD and docs. - ZetBolt
+Anti-Corruption Gov System – Government work tracker on blockchain. - CorruptBlock
+Faculty Dashboard System – Monitors teacher performance and feedback. - FacultyView
+Smart Food Maker AI – Suggests recipes from voice input, ingredients, and calories. - FoodAI
+Recharge & Bill Payments - BillEase
+Food Ordering & Delivery - FoodFleet
+Movie Ticket Booking - MovieChain
+Travel Bookings - TripEase
+Temple Booking - DarshanNow
+Grocery Delivery - GrocerEase
+Cab & Bike Rides - RideNow
+Wallet/UPI Integration - WalletX
+Location-Based Offers - OfferSpot
+Blockchain Transaction History - ChainTrack
+MCQ Auto Answer Bot - MCQGenie
+Voice Learning Mode - VoiceLearn
+Resume Evaluator - ResumeCheck
+Document Summarizer - DocuSum
+PDF Chatbot - PDFPal
+AI Face Attendance - AttendAI
+Voice Agent with Emotions - EmoVoice
+Image Caption Generator - CaptionAI
+AI Customer Chatbot - ChatServe
+Finance Assistant - FinBuddy
+MVK Company Website - MVKWeb
+LMS Platform - LearnX
+Real-Time Chat App - ChatNow
+E-Commerce Platform - ShopEase
+Markdown Blog System - MarkBlog
+Portfolio Website - PortShow
+Super App Landing Page - SuperStart
+Task Board - TaskFlow
+Weather App - Weatherly
+Hotel Booking - StayBook
+CI/CD Pipeline - PipeRun
+Kubernetes Deployment - KubeDeploy
+Log Monitoring (ELK) - LogWatch
+Cloud Cost Estimator - CloudCalc
+Auto DB Backup - DBGuard
+Serverless Microservices - MicroServe
+API Gateway + Rate Limit - APIGuard
+Database Version Control - DBVersioner
+SaaS Billing & Tracker - SaaSBill
+Status Page - Statusly
+Black Hole Attack Simulation - NetSimGuard
+WSN Secure Algorithm - WSNGuard
+Blockchain Voting System - VoteChain
+Finance Tracker (SQL) - FinTrack
+Bus/Train Tracker - TransitLive
+Dynamic Travel Pricing - PriceFlex
+Group Recharge Split - SplitPay
+AI Health Alert System - HealthAlert
+Web3 Complaint Portal - Web3Help
+Virtual Brain AI - BrainBox
+Invigilo AI - Invigilo
+MVK Suraksha Grid - SurakshaGrid
+AI Crime Brain - CrimeBrain
+MVK Trading Bot - TradeGenie 

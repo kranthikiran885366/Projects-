@@ -1,0 +1,73 @@
+MVK Solutions Master Project Portfolio - Complete List of 54 Projects
+
+### 💳 Payments, Commerce & Booking
+
+1. Recharge & Bill Payments
+2. Food Ordering & Delivery
+3. Movie Ticket Booking
+4. Travel Bookings
+5. Temple Booking
+6. Grocery Delivery
+7. Cab & Bike Rides
+8. Wallet/UPI Integration
+9. Location-Based Offers
+10. Blockchain Transaction History
+
+### 🧠 AI-Powered Tools
+
+11. MCQ Auto Answer Bot
+12. Voice Learning Mode
+13. Resume Evaluator
+14. Document Summarizer
+15. PDF Chatbot
+16. AI Face Attendance
+17. Voice Agent with Emotions
+18. Image Caption Generator
+19. AI Customer Chatbot
+20. Finance Assistant
+
+### 🌐 Websites & Platforms
+
+21. MVK Company Website
+22. LMS Platform
+23. Real-Time Chat App
+24. E-Commerce Platform
+25. Markdown Blog System
+26. Portfolio Website
+27. Super App Landing Page
+28. Task Board
+29. Weather App
+30. Hotel Booking
+
+### ⚙️ DevOps & Cloud
+
+31. CI/CD Pipeline
+32. Kubernetes Deployment
+33. Log Monitoring (ELK)
+34. Cloud Cost Estimator
+35. Auto DB Backup
+36. Serverless Microservices
+37. API Gateway + Rate Limit
+38. Database Version Control
+39. SaaS Billing & Tracker
+40. Status Page
+
+### 🔐 Security, Blockchain, & WSN
+
+41. Black Hole Attack Simulation
+42. WSN Secure Algorithm
+43. Blockchain Voting System
+44. Finance Tracker (SQL)
+45. Bus/Train Tracker
+46. Dynamic Travel Pricing
+47. Group Recharge Split
+48. AI Health Alert System
+49. Web3 Complaint Portal
+
+### 🤖 Advanced AI & Safety Systems
+
+50. Virtual Brain AI
+51. Invigilo AI
+52. MVK Suraksha Grid
+53. AI Crime Brain
+54. MVK Trading Bot 

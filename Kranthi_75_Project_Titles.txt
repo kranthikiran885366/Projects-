@@ -1,0 +1,77 @@
+Kranthi's 75 Unique Project Titles
+
+1. AI-Based Doctor & Virtual Hospital System
+2. Automated Exam Center Without Human Invigilators
+3. Crime Prediction and Emergency Alert System
+4. Cybercrime & Data Leak Protection Shield
+5. Real-Time Hacker Confusion & Intrusion Prevention App
+6. Secure Data Deployment with Server Obfuscation
+7. AI Army Support & War Assistant System
+8. Logistics & Smart Supply Chain System
+9. Legal Court Simulation (AI Judge + Lawyer)
+10. AI Trading Bot
+11. Decentralized Court & E-Judgement Framework
+12. AI Health Monitor for Wearables Integration
+13. Blockchain-based Prescription System
+14. Rural Telemedicine with Offline AI Support
+15. Patient History Timeline with EMR Simulation
+16. Virtual Nurse for Elderly Care & Daily Reminders
+17. Mental Health AI Therapist & Mood Tracker
+18. Emergency First Aid Voice & Visual Bot
+19. Health Report Analyzer with OCR & Decision Maker
+20. Multi-language Medical Bot with Voice Interaction
+21. Blood Bank & Organ Donor Matchmaking App
+22. Remote Surgery Guide AI Assistant
+23. E-Pharmacy Integration with Prescription Engine
+24. AI-Based Resume Review & Improvement Tool
+25. Smart Interview Coach with Voice Feedback
+26. Remote Proctoring AI System with Cheating Detection
+27. Smart Waste Management & Bin Tracking App
+28. Smart Village Watchman App (No Human Guard)
+29. Auto Student Report Card & Performance Predictor
+30. Smart School Attendance & Class Participation Tracker
+31. Auto MCQ Solver Using Chrome Extension + AI
+32. AI Teaching Assistant for Schools & Colleges
+33. Fraud Detection Bot for eCommerce & Marketplaces
+34. Deepfake Detector for Social Media
+35. Face Analysis Personality Predictor App
+36. Smart Transportation Ticketing & Group Travel App
+37. AI Fitness Coach with Real-Time Posture Correction
+38. AI-Powered Court Lawyer for Legal Advice
+39. Secure Chat App with IP Masking & No Trace
+40. AI-Generated Legal Documents & Auto Filing
+41. Food Nutrition AI Detector (Image to Calorie)
+42. AI Home Guard – Motion + Voice Intrusion Alert
+43. Spiritual & Temple Booking with Personal Priest Bot
+44. Bus & Train Live Location & NFC Ticketing System
+45. Real Estate AI Value Predictor & Legal Validator
+46. AI Super App for Recharge, Bill, Food, Travel etc.
+47. Multi-Account Bank Aggregator with Budget AI
+48. Career Recommendation System for Rural Students
+49. Fraud Insurance Claim Verifier Bot
+50. Offline Voice Command Control for Devices
+51. Online Exam Paper Generator & Auto Answer Checker
+52. AI Emergency Criminal Catcher Surveillance System
+53. File Encryptor & Decoder App with Dynamic Keying
+54. Digital Ward App for City Corporations (Issues Tracker)
+55. IoT-Connected Smart Medicine Dispenser
+56. AI Voting System with Facial Authentication
+57. Data Engineer Portfolio Builder + Auto Dashboard
+58. DevOps Engineer Simulator Platform
+59. Educational Bot for Visually Impaired Students
+60. Speech to SQL Database Query App
+61. Hospital Queue & Token AI Optimizer
+62. AI-Generated Question Bank System (All Subjects)
+63. Automatic Water Flow Controller using AI for Crops
+64. Legal Support System for Farmers' Rights & Issues
+65. Stock Market News to Summary App (Hindi + Telugu)
+66. Wildlife Protection AI Trap & Alert App
+67. Child Safety Tracker with AI Alerts
+68. Blockchain-Backed Vaccine Supply Chain Tracker
+69. Expense Splitter with Emotional Analysis for Groups
+70. NGO Donation Optimizer (Transparency + Matching)
+71. AI-Based Anti-Ragging Campus Safety App
+72. Smart Traffic Fine Prediction & Prevention App
+73. AI Career Tracker Based on Daily Learning Logs
+74. Smart College Automation (Fees, Timetable, Marks)
+75. Real-Time Local Government Service Feedback App 

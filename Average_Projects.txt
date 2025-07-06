@@ -1,0 +1,38 @@
+Average Projects
+===============
+
+Food Ordering & Delivery
+Movie Ticket Booking
+Travel Bookings
+Temple Booking
+Grocery Delivery
+Cab & Bike Rides
+Wallet/UPI Integration
+Location-Based Offers
+Portfolio Website
+Weather App
+Hotel Booking
+Resume Generator
+CI/CD Pipeline
+Real-Time Chat App
+E-Commerce Platform
+Markdown Blog System
+Task Board
+Bus/Train Tracker
+Finance Tracker (SQL)
+Group Recharge Split
+PDF Chatbot
+Voice Learning Mode
+Image Caption Generator
+AI Customer Chatbot
+Finance Assistant
+MVK Company Website
+LMS Platform
+Super App Landing Page
+Status Page
+Log Monitoring (ELK)
+Auto DB Backup
+Serverless Microservices
+API Gateway + Rate Limit
+Database Version Control
+SaaS Billing & Tracker 

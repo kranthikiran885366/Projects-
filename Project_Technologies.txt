@@ -1,0 +1,87 @@
+Project Technologies
+====================
+
+Frontend Technologies:
+---------------------
+- React.js
+- Angular
+- Vue.js
+- Svelte
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap, Tailwind CSS, Material UI
+
+Backend Technologies:
+---------------------
+- Node.js (Express.js, NestJS)
+- Python (Django, Flask, FastAPI)
+- Java (Spring Boot)
+- C# (.NET Core)
+- PHP (Laravel, Symfony)
+- Ruby on Rails
+- Go (Gin, Echo)
+
+Database Technologies:
+---------------------
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Redis
+- Cassandra
+- Firebase Realtime Database
+
+AI / Machine Learning:
+----------------------
+- Python (scikit-learn, TensorFlow, PyTorch, Keras)
+- OpenCV
+- Hugging Face Transformers
+- NLTK, spaCy
+- GPT-3/4, Gemini, Llama
+- Jupyter Notebooks
+
+DevOps & CI/CD:
+---------------
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- GitLab CI/CD
+- Travis CI
+- Terraform
+- Ansible
+
+Cloud Platforms:
+----------------
+- AWS (EC2, S3, Lambda, RDS, SageMaker)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Heroku
+- Vercel
+- Netlify
+
+Blockchain & Web3:
+------------------
+- Ethereum (Solidity, Hardhat, Truffle)
+- Polygon
+- Hyperledger
+- Web3.js, Ethers.js
+- IPFS
+
+Mobile App Development:
+-----------------------
+- React Native
+- Flutter
+- Kotlin (Android)
+- Swift (iOS)
+- Ionic
+
+Other Tools & Technologies:
+--------------------------
+- REST APIs, GraphQL
+- WebSockets
+- OAuth2, JWT, SAML
+- Selenium, Cypress (Testing)
+- Figma, Adobe XD (UI/UX Design)
+- Power BI, Tableau (Data Visualization)
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Prometheus, Grafana (Monitoring) 
